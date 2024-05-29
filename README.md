@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Actuellement étudiant en BTS SIO option SLAM<br>🔎 Recherche d'une alternance en développement web ou logiciel
+👨‍🎓 Actuellement étudiant en BTS SIO option SLAM<br>
 
 
 ## 🌐 Socials:
