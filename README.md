@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Actuellement étudiant en BTS SIO option SLAM<br>
+👨‍🎓 Actuellement étudiant en L3 informatique parcours CDA<br>
 
 
 ## 🌐 Socials:
