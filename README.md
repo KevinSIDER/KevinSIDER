@@ -9,7 +9,7 @@ Je suis un passionné de développement logiciel, avec un intérêt particulier 
 ### 🎯 Objectif actuel
 🚀 Je suis à la recherche d'un **Stage en Développement Logiciel** (8 semaines).
 🗓️ **Disponibilité :** Avril 2026.
-📍 **Localisation :** Brest et alentours.
+📍 **Localisation :** Brest.
 
 ---
 
