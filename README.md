@@ -2,8 +2,6 @@
 
 ### 🎓 Étudiant en L3 Informatique (Parcours CDA) à l'UBO - Brest
 
-Je suis un passionné de développement logiciel, avec un intérêt particulier pour le **développement bas niveau** et la **conception orientée objet**.
-
 ---
 
 ### 🎯 Objectif actuel
