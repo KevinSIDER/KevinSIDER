@@ -4,13 +4,6 @@
 
 ---
 
-### 🎯 Objectif actuel
-🚀 Je suis à la recherche d'un **Stage en Développement Logiciel** (8 semaines).
-🗓️ **Disponibilité :** Avril 2026.
-📍 **Localisation :** Brest.
-
----
-
 ### 🛠️ Stack Technique
 
 **Langages Principaux :**
