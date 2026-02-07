@@ -1,6 +1,6 @@
 # Bonjour, je suis Kevin SIDER 👋
 
-# 🎓 Étudiant en L3 Informatique (Parcours CDA) à l'UBO - Brest
+## 🎓 Étudiant en L3 Informatique (Parcours CDA) à l'UBO - Brest
 
 
 ### 🛠️ Stack Technique
